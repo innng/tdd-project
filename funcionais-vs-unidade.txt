@@ -1,0 +1,2 @@
+1. testes funcionais são mais caros em tempo de execução que testes de unidade.
+2. escopo de um teste funcional é mais abrangente que o escopo tratado em um teste de unidade.
